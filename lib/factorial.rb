@@ -6,8 +6,8 @@ def factorial(n)
   end
 end
 
-puts factorial(3)
+puts "The factorial of 3 is #{factorial(3)}"
 
-puts factorial(4)
+puts "The factorial of 4 is #{factorial(4)}"
 
-puts factorial (5)
+puts "The factorial of 5 is #{factorial (5)}"
